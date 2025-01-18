@@ -1,0 +1,1 @@
+This repository showcases a simple yet easily overlooked bug in HTML: a typo in `getElementById`.  The incorrect usage of `getElementByIdx` will prevent the script from working correctly and will cause a runtime error. The solution shows the correct implementation.
